@@ -1,6 +1,6 @@
 # Projeto: True-Random-Number-Generator
 
-Este projeto implementa um **Custom Node para o n8n** chamado **Random**, que consome a API [Random.org](https://www.random.org) para gerar números aleatórios.  
+Este projeto implementa um **Custom Node para o n8n** chamado **Random**, que consome a API [Random.org](https://www.random.org/integers/?num=1&min=1&max=60&col=1&base=10&format=plain&rnd=new) para gerar números aleatórios.  
 
 O objetivo é demonstrar a capacidade de criar conectores personalizados, configurando um ambiente de desenvolvimento local utilizando **Node.js (TypeScript)**, **Docker Compose**, **n8n self-hosted** e **PostgreSQL**.
 
