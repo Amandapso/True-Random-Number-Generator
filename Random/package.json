@@ -1,0 +1,26 @@
+{
+  "name": "n8n-nodes-random",
+  "version": "1.0.0",
+  "description": "Custom Random node for n8n",
+  "main": "dist/Random.node.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "n8n",
+    "custom",
+    "random",
+    "node"
+  ],
+  "author": "AmandaPaula",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "n8n-workflow": "^1.110.0"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.9.36",
+    "@types/node": "^24.5.2",
+    "typescript": "^5.2.2"
+  }
+}
